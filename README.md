@@ -11,7 +11,7 @@
 
 ## Features
 
-![1](https://github.com/Clipaevalley/palworld-mod-hack/blob/main/assets/image.png)
+![1](https://github.com/Clipaevalley/palworld-mod-hack/blob/main/assets/image.jpg)
 
 | Player | Inventory | Game | Stats |
 |--------|-----------|------|-------|
